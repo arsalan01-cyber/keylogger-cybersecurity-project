@@ -30,4 +30,4 @@ This project is strictly for education, research, and cybersecurity practice. Us
 Author
 
 Arsalan
-computer science engineering (Cyber Security) Student
+computer science & engineering (Cyber Security) Student
